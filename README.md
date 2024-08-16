@@ -3,6 +3,6 @@
 - 🌱 I’m currently working on Backend technologies involved in Web Dev
 - 💞️ I’m looking to collaborate on Full Stack Web Dev opportunities
 
--Resume Link : https://drive.google.com/file/d/19_STd9DcBdfJ6H15b3yC2HwkCIYuqMdC/view?usp=drive_link
+-Resume Link : https://docs.google.com/document/d/1_oIXwKqDFD8Rqxt4BLyDmZxiRYyML4xNXol_lP1mnqo/edit?usp=sharing
 
 
